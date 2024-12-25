@@ -70,10 +70,12 @@ previous stage
 ```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
+
 ![image](https://github.com/user-attachments/assets/b0ebe5cc-ec84-4b13-8bd3-d6552fcec1e2)
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
+
 ![image](https://github.com/user-attachments/assets/ab83712e-b30e-4d1f-93ec-fe78fe3dc435)
 
 
